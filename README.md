@@ -1,6 +1,6 @@
 # Flipkart-gridlock
 
-Traffic Demand Prediction – Solution Summary
+Traffic Demand Prediction 
 
 Approach:
 
